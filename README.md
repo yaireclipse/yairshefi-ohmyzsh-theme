@@ -7,3 +7,5 @@ Only difference is the addition of yellow line separators befor each new prompt,
 Instructions:
 1. Put `yairshefi.zsh-theme`	in the folder `~/.oh-my-zsh/themes/`
 2. In the file `~/.zshrc`, set the property `ZSH_THEME` to `yairshefi`
+
+Supports both Git & Mercurial plugins.
